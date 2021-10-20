@@ -75,4 +75,4 @@ pipelines:
             - name: juyiGithub            
         execution:
           onExecute:
-            - echo deployment
+            - echo deployment1
