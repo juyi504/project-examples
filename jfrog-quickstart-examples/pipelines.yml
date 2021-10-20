@@ -13,7 +13,7 @@ resources:
       buildName: SampleApp
       buildNumber: 1          
 pipelines:  
-  - name: basic_pipeline
+  - name: juyi_pipeline
     configuration:
       environmentVariables:
         readOnly:
