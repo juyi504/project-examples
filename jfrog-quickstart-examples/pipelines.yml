@@ -2,7 +2,7 @@ resources:
   - name: myGitRepo
     type: GitRepo
     configuration:
-      gitProvider: my_github
+      gitProvider: juyiGithub
       path: juyi504/project-examples
       branches:
         include: master
